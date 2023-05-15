@@ -31,6 +31,7 @@
 		F52093EC2A1230AE005AB3ED /* NewItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093EB2A1230AE005AB3ED /* NewItemViewModel.swift */; };
 		F52093EE2A1230C5005AB3ED /* ToDoListItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093ED2A1230C5005AB3ED /* ToDoListItemViewModel.swift */; };
 		F52093F02A12383E005AB3ED /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093EF2A12383E005AB3ED /* HeaderView.swift */; };
+		F52093F22A12D460005AB3ED /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093F12A12D460005AB3ED /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		F52093EB2A1230AE005AB3ED /* NewItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemViewModel.swift; sourceTree = "<group>"; };
 		F52093ED2A1230C5005AB3ED /* ToDoListItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewModel.swift; sourceTree = "<group>"; };
 		F52093EF2A12383E005AB3ED /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		F52093F12A12D460005AB3ED /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				F52093D92A122F81005AB3ED /* NewItemView.swift */,
 				F52093DB2A122FCD005AB3ED /* ToDoListItemView.swift */,
 				F52093EF2A12383E005AB3ED /* HeaderView.swift */,
+				F52093F12A12D460005AB3ED /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				F52093DA2A122F81005AB3ED /* NewItemView.swift in Sources */,
 				F52093D22A122F1D005AB3ED /* ProfileView.swift in Sources */,
 				F52093D82A122F5B005AB3ED /* RegisterView.swift in Sources */,
+				F52093F22A12D460005AB3ED /* TLButton.swift in Sources */,
 				F52093EC2A1230AE005AB3ED /* NewItemViewModel.swift in Sources */,
 				F52093DE2A122FFC005AB3ED /* User.swift in Sources */,
 				F52093E82A123085005AB3ED /* LoginViewModel.swift in Sources */,
