@@ -32,6 +32,7 @@
 		F52093EE2A1230C5005AB3ED /* ToDoListItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093ED2A1230C5005AB3ED /* ToDoListItemViewModel.swift */; };
 		F52093F02A12383E005AB3ED /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093EF2A12383E005AB3ED /* HeaderView.swift */; };
 		F52093F22A12D460005AB3ED /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52093F12A12D460005AB3ED /* TLButton.swift */; };
+		F5F91CC22A13E7AA00FCC433 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F91CC12A13E7AA00FCC433 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		F52093ED2A1230C5005AB3ED /* ToDoListItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewModel.swift; sourceTree = "<group>"; };
 		F52093EF2A12383E005AB3ED /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		F52093F12A12D460005AB3ED /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		F5F91CC12A13E7AA00FCC433 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				F52093CB2A122B36005AB3ED /* GoogleService-Info.plist */,
 				F52093B62A1226C2005AB3ED /* ToDoListApp.swift */,
 				F52093BA2A1226C3005AB3ED /* Assets.xcassets */,
+				F5F91CC12A13E7AA00FCC433 /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				F52093E42A12305F005AB3ED /* ProfileViewModel.swift in Sources */,
 				F52093DC2A122FCD005AB3ED /* ToDoListItemView.swift in Sources */,
 				F52093D62A122F4E005AB3ED /* LoginView.swift in Sources */,
+				F5F91CC22A13E7AA00FCC433 /* Extensions.swift in Sources */,
 				F52093E02A12300D005AB3ED /* ToDoListItem.swift in Sources */,
 				F52093E62A123071005AB3ED /* ToDoListViewModel.swift in Sources */,
 				F52093B72A1226C2005AB3ED /* ToDoListApp.swift in Sources */,
