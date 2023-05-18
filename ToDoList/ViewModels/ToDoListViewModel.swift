@@ -7,6 +7,7 @@
 
 import Foundation
 import FirebaseFirestore
+import FirebaseAuth
 // View Model for list of items view
 class ToDoListViewViewModel : ObservableObject{
     @Published var showingNewItemView = false
